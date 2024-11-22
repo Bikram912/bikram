@@ -1,2 +1,2 @@
 # bikram
-It is a demo for Git &amp; Github class
+It is a demo for Git &amp; Github class.
